@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af878c67-788f-49bb-b942-8fe74a7dd790" name="変更" comment="">
+      <change afterPath="$PROJECT_DIR$/__tests__/BlogDetail.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__tests__/BlogPage.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__tests__/Props.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HighPerformance/react-query-lesson" beforeDir="false" afterPath="$PROJECT_DIR$/../../HighPerformance/react-query-lesson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HighPerformance/react-query-todos" beforeDir="false" afterPath="$PROJECT_DIR$/../../HighPerformance/react-query-todos" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HighPerformance_first/react-query-lesson" beforeDir="false" afterPath="$PROJECT_DIR$/../../HighPerformance_first/react-query-lesson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HighPerformance_first/react-query-todos" beforeDir="false" afterPath="$PROJECT_DIR$/../../HighPerformance_first/react-query-todos" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HighPerformance_first/sample/restapi-todos" beforeDir="false" afterPath="$PROJECT_DIR$/../../HighPerformance_first/sample/restapi-todos" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReduxTool_ReactHooks_first/rtk_basic" beforeDir="false" afterPath="$PROJECT_DIR$/../../ReduxTool_ReactHooks_first/rtk_basic" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReduxTool_ReactHooks_first/rtk_tasks" beforeDir="false" afterPath="$PROJECT_DIR$/../../ReduxTool_ReactHooks_first/rtk_tasks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ReduxTool_ReactHooks_first/sample/api_tasks" beforeDir="false" afterPath="$PROJECT_DIR$/../../ReduxTool_ReactHooks_first/sample/api_tasks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../covid/chart-lesson" beforeDir="false" afterPath="$PROJECT_DIR$/../../covid/chart-lesson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../covid/covid-dashboard" beforeDir="false" afterPath="$PROJECT_DIR$/../../covid/covid-dashboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mywork/react-query-lesson" beforeDir="false" afterPath="$PROJECT_DIR$/../../mywork/react-query-lesson" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mywork/react-query-todos" beforeDir="false" afterPath="$PROJECT_DIR$/../../mywork/react-query-todos" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../django/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/nextjs_blog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/nextjs_blog.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__test__/Home.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/fetch.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/fetch.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/api/hello.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="b6a07965-49f2-4e5e-93e6-508e27d83160" />
+        <option name="url" value="https://github.com/Matsuzaka-Sho/React.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Lw1TDZF2nT9GwecD0Xp0IQEI72" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/work/programming/React/nextjs-django-testing/django",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs.jest.jest_package": "C:/work/programming/React/nextjs-django-testing/nextjs_blog/node_modules/jest",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PythonContentEntriesConfigurable",
+    "ts.external.directory.path": "C:\\work\\programming\\React\\nextjs-django-testing\\nextjs_blog\\node_modules\\typescript\\lib"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\work\programming\React\nextjs-django-testing\nextjs_blog" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.test">
+    <configuration name="AdminPage Test Cases" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/__tests__/AuthPage.test.tsx" />
+      <test-names>
+        <test-name value="AdminPage Test Cases" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="BlogDetailPage Test Cases.Should render detailed content of ID 1" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/__tests__/BlogDetail.test.tsx" />
+      <test-names>
+        <test-name value="BlogDetailPage Test Cases" />
+        <test-name value="Should render detailed content of ID 1" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="BlogPage Test Cases.Should render the list of blogs pre-fetched by getStaticProps" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/__tests__/BlogPage.test.tsx" />
+      <test-names>
+        <test-name value="BlogPage Test Cases" />
+        <test-name value="Should render the list of blogs pre-fetched by getStaticProps" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="BlogPage Test Cases.should not render delete btn + logout btn when no cookie" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/__tests__/BlogPage.test.tsx" />
+      <test-names>
+        <test-name value="BlogPage Test Cases" />
+        <test-name value="should not render delete btn + logout btn when no cookie" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript デバッグ.Debug Application" />
+      <item itemvalue="Jest.AdminPage Test Cases" />
+      <item itemvalue="Jest.BlogDetailPage Test Cases.Should render detailed content of ID 1" />
+      <item itemvalue="Jest.BlogPage Test Cases.Should render the list of blogs pre-fetched by getStaticProps" />
+      <item itemvalue="Jest.BlogPage Test Cases.should not render delete btn + logout btn when no cookie" />
+      <item itemvalue="npm.npm start" />
+      <item itemvalue="npm.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.test" />
+        <item itemvalue="Jest.AdminPage Test Cases" />
+        <item itemvalue="Jest.BlogDetailPage Test Cases.Should render detailed content of ID 1" />
+        <item itemvalue="Jest.BlogPage Test Cases.Should render the list of blogs pre-fetched by getStaticProps" />
+        <item itemvalue="Jest.BlogPage Test Cases.should not render delete btn + logout btn when no cookie" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="アプリケーションレベル" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="デフォルトタスク">
+      <changelist id="af878c67-788f-49bb-b942-8fe74a7dd790" name="変更" comment="" />
+      <created>1676767336555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676767336555</updated>
+      <workItem from="1676767338477" duration="2307000" />
+      <workItem from="1676770999072" duration="209000" />
+      <workItem from="1676771221646" duration="25000" />
+      <workItem from="1677284545327" duration="3782000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../../nextjs-testing/__tests__/CommentPage.test.tsx</url>
+          <line>3</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/nextjs_blog$manage.coverage" NAME="manage のカバレッジ結果" MODIFIED="1677284681254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../django" />
+  </component>
+</project>
